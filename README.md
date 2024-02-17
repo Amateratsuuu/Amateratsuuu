@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amateratsuuu
-- 👀 I’m interested in cars
+- 👀 I’m interested in cars!
 
 <!---
 Amateratsuuu/Amateratsuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
